@@ -26,7 +26,7 @@ Eu não vejo a programação apenas como escrita de código, mas como a aplicaç
 
 O que me diferencia no mercado é o preciosismo com a fundação do software. Não sou refém de ferramentas; acredito que a linguagem é só um meio. Por isso, foco minha energia em dominar padrões arquiteturais sólidos como **Clean Architecture, Domain-Driven Design (DDD)** e princípios **SOLID**. O resultado disso? Códigos desacoplados, fáceis de testar e que evoluem sem quebrar a casa. Tenho bagagem prática desenhando regras complexas de **Multi-Tenancy** e arquiteturas robustas para microsserviços.
 
-A maior prova da minha capacidade de entrega e visão de produto é o [**NextFlow PDV**](https://github.com/thiagoSEP121914/NextFlow-PDV). Mais do que um projeto, é uma plataforma SaaS multiplataforma completa de gestão comercial e automação empresarial que idealizei e estou construindo do absoluto zero. Um sistema desenhado com arquitetura de ponta para provar que software bom é software feito para durar e gerar valor real.
+A maior prova da minha capacidade de entrega e visão de produto é o [**NextFlow PDV**](https://www.nextflowpdv.com.br/). Mais do que um projeto, é uma plataforma SaaS multiplataforma completa de gestão comercial e automação empresarial que idealizei e estou construindo do absoluto zero. Um sistema desenhado com arquitetura de ponta para provar que software bom é software feito para durar e gerar valor real.
 
 ## ⚙️ Tech Stack
 
