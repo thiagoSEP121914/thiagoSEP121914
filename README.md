@@ -1,15 +1,12 @@
 <div align="center">
 
-# ⚡ Thiago Costa
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=200&section=header&text=Thiago%20Costa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20SaaS%20Architect&descAlignY=58&descSize=18&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+SaaS+Architect;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Clean+Architecture+%7C+DDD+%7C+SOLID;Building+NextFlow+PDV+%E2%80%94+Multi-Tenant+SaaS+Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+SaaS+Architect;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Clean+Architecture+%7C+DDD+%7C+SOLID;Building+NextFlow+PDV+%E2%80%94+Multi-Tenant+SaaS+Platform" alt="Typing SVG" />
 
-</div>
+<br/>
 
-### `< Backend Engineer />` · `{ SaaS Builder }` · `[ System Architect ]`
-
-
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/thiago-costa-5135bb270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -20,6 +17,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
+</div>
 
 ---
 
@@ -35,39 +34,40 @@ Atualmente, lidero a concepção do **NextFlow PDV**, uma plataforma SaaS de alt
 
 ## ⚙️ Tech Stack
 
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+| 🔹 Backend | 🎨 Frontend |
+|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-**Infra & Data**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+| 🗄️ Infra & Data | ☁️ Cloud |
+|:---:|:---:|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white) |
 
-**Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+| 🏗️ Architecture & Practices |
+|:---:|
+| ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=flat-square) ![DDD](https://img.shields.io/badge/DDD-0A66C2?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID-16A34A?style=flat-square) ![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-7C3AED?style=flat-square) ![Event-Driven](https://img.shields.io/badge/Event--Driven-0F172A?style=flat-square) |
 
-**AI & Dev Tools**
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
-
-**Architecture**
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=flat-square)
-![DDD](https://img.shields.io/badge/DDD-0A66C2?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-16A34A?style=flat-square)
-![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-7C3AED?style=flat-square)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-0F172A?style=flat-square)
+</div>
 
 ---
 
+## 📊 Matrix Metrics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thiagoSEP121914&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoSEP121914&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoSEP121914&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoSEP121914&theme=tokyo-night&hide_border=true&radius=4"/>
+</div>
+
+---
 
 ## 🚀 Currently Iterating
 
@@ -81,5 +81,7 @@ Atualmente, lidero a concepção do **NextFlow PDV**, uma plataforma SaaS de alt
 > *"Systems built to last, code written to evolve."*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thiagoSEP121914.thiagoSEP121914)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer)
 
 </div>
