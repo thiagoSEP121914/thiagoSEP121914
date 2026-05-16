@@ -9,9 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
 ```
 
-### `< Backend Engineer />` · `{ SaaS Builder }` · `[ System Architect ]`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Backend+Focus;Building+scalable+SaaS+platforms;Clean+Architecture+%7C+DDD+%7C+SOLID;Java+%7C+Spring+Boot+%7C+Node.js+%7C+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+SaaS+Architect;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Clean+Architecture+%7C+DDD+%7C+SOLID;Building+NextFlow+PDV+%E2%80%94+Multi-Tenant+SaaS" alt="Typing SVG" />
 
 <br/>
 
@@ -23,144 +21,119 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 🧠 Sobre mim
+## About
 
 ```yaml
-name: Thiago Costa
-role: Fullstack Developer (Backend-focused)
+name:     Thiago Costa
+role:     Backend Engineer & Fullstack Developer
 location: Brasil 🇧🇷
+
 focus:
-  - Backend Engineering
-  - SaaS Architecture
+  - Backend Engineering & System Design
+  - SaaS Architecture & Multi-Tenancy
   - Scalable Distributed Systems
 
-currently_building: NextFlow PDV
-  → plataforma SaaS multi-tenant
-  → gestão comercial & automação
+currently_building:
+  project: NextFlow PDV
+  type:    Multi-Tenant SaaS Platform
+  domain:  Gestão Comercial & Automação
 
-philosophy: "Systems built to last,
-              code written to evolve."
+principles:
+  - Clean Architecture
+  - Domain-Driven Design
+  - SOLID & Design Patterns
+  - Event-Driven Architecture
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### 🔷 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Data & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🗄️ Dados & Infra
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 🏗️ Arquitetura & Práticas
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-0A66C2?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-16A34A?style=for-the-badge)
-![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-7C3AED?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-EF4444?style=for-the-badge&logo=githubactions&logoColor=white)
+### AI & Dev Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 
-</div>
+### Architecture & Practices
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-0A66C2?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-16A34A?style=flat-square)
+![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-7C3AED?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-EF4444?style=flat-square&logo=githubactions&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0F172A?style=flat-square)
 
 ---
 
-## 🚀 Projeto em Destaque
+## Featured Project — NextFlow PDV
 
-<div align="center">
+> Plataforma SaaS multiplataforma para gestão comercial, financeira e automação de processos, construída com arquitetura multi-tenant escalável.
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   ███╗  ██╗███████╗██╗  ██╗████████╗███████╗██╗     ║
-║   ████╗ ██║██╔════╝╚██╗██╔╝╚══██╔══╝██╔════╝██║     ║
-║   ██╔██╗██║█████╗   ╚███╔╝    ██║   █████╗  ██║     ║
-║   ██║╚████║██╔══╝   ██╔██╗    ██║   ██╔══╝  ██║     ║
-║   ██║ ╚███║███████╗██╔╝╚██╗   ██║   ██║     ███████╗║
-║   ╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝  ╚═╝   ╚═╝     ╚══════╝║
-║                    F L O W   P D V                   ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-> 🏪 **Plataforma SaaS multiplataforma para gestão comercial moderna**
-
-| Funcionalidade | Status |
+| Módulo | Descrição |
 |---|---|
-| 🏬 Controle Multi-Store | ✅ Em desenvolvimento |
-| 💳 Integração de Pagamentos | ✅ Em desenvolvimento |
-| 💰 Gestão Financeira | ✅ Em desenvolvimento |
-| ⚙️ Automação de Processos | ✅ Em desenvolvimento |
-| 🏗️ Arquitetura Multi-Tenant | ✅ Em desenvolvimento |
-| ☁️ Cloud Deploy | ✅ Em desenvolvimento |
+| 🏬 Multi-Store | Gestão centralizada de múltiplos estabelecimentos |
+| 💳 Pagamentos | Integração com gateways de pagamento |
+| 💰 Financeiro | Controle financeiro e relatórios |
+| ⚙️ Automação | Automação de processos operacionais |
+| 🏗️ Multi-Tenant | Isolamento de dados por tenant em arquitetura escalável |
+| ☁️ Cloud | Deploy distribuído em cloud com alta disponibilidade |
 
-**Stack:** `Java + Spring Boot` · `Node.js` · `React / Next.js` · `MongoDB` · `Redis` · `Docker`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoSEP121914&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoSEP121914&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoSEP121914&theme=tokyonight&border_radius=12" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoSEP121914&theme=tokyo-night&hide_border=true&radius=8" width="100%"/>
-</div>
+**Stack:** `Java + Spring Boot` · `Node.js` · `React / Next.js` · `MongoDB` · `Redis` · `Docker` · `AWS / GCP`
 
 ---
 
-## 📚 Atualmente Estudando
+## GitHub Stats
 
 <div align="center">
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoSEP121914&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoSEP121914&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=true"/>
+</div>
 
-| 🔬 Área | 📖 Tópico |
-|---|---|
-| Arquitetura | Microsserviços & Event-Driven Architecture |
-| Backend | Escalabilidade & Alta Performance |
-| Cloud | DevOps, CI/CD avançado |
-| Distribuição | Sistemas distribuídos & mensageria |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoSEP121914&theme=tokyonight&border_radius=8&hide_border=true"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoSEP121914&theme=tokyo-night&hide_border=true&radius=6" width="100%"/>
 </div>
 
 ---
 
-## 🎯 Objetivo
+## Currently Studying
 
-<div align="center">
-
-> *"Construir sistemas que escalam, código que evolui e soluções que impactam."*
-
-Busco evoluir como **engenheiro de software backend**, contribuindo para sistemas escaláveis, distribuídos e de alta performance — com foco em qualidade de código, arquitetura sólida e entrega de valor real.
-
-</div>
+- Microsserviços e comunicação assíncrona com mensageria
+- Event-Driven Architecture (Kafka, RabbitMQ)
+- Engenharia de software distribuído e escalabilidade
+- Cloud avançado — AWS & GCP (IaC, serverless, observability)
+- DevOps e pipelines de CI/CD de nível produção
 
 ---
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thiagoSEP121914.thiagoSEP121914)
+*"Build systems that scale. Write code that evolves. Deliver value that lasts."*
 
-**Made with 💙 by Thiago Costa**
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thiagoSEP121914.thiagoSEP121914)
 
 </div>
