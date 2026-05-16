@@ -8,7 +8,6 @@
 
 ### `< Backend Engineer />` · `{ SaaS Builder }` · `[ System Architect ]`
 
-<br/>
 
 <p align="left">
   <a href="https://linkedin.com/in/thiago-costa-5135bb270" target="_blank">
