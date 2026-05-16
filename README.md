@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d1a,100:00ff88&height=200&section=header&text=Thiago%20Costa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20SaaS%20Architect&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d1a,100:00ff88&height=200&section=header&text=Thiago%20Costa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+SaaS+Architect;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Clean+Architecture+%7C+DDD+%7C+SOLID;Building+NextFlow+PDV+%E2%80%94+Multi-Tenant+SaaS+Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Clean+Architecture+%7C+DDD+%7C+SOLID;Building+NextFlow+PDV+%E2%80%94+Multi-Tenant+SaaS+Platform" alt="Typing SVG" />
 
 <br/>
 
@@ -20,17 +20,13 @@
 
 </div>
 
----
-
 ## 🦾 Expertise
 
-Sou um **Desenvolvedor Fullstack com foco em Backend**, especializado no desenho de arquiteturas escaláveis, sistemas distribuídos e soluções SaaS robustas. No dia a dia, piloto o ecossistema **Java/Spring Boot, Node.js, React e TypeScript** de ponta a ponta: da modelagem complexa de dados até a infraestrutura containerizada.
+Eu não vejo a programação apenas como escrita de código, mas como a aplicação de soluções para problemas reais e complexos de negócio. Sou um **Desenvolvedor Fullstack com foco real em Backend**, especializado em construir sistemas modulares, escaláveis e plataformas SaaS prontas para aguentar o tranco do mundo real. No meu dia a dia, piloto o ecossistema de **Java/Spring Boot, Node.js, React e TypeScript** de ponta a ponta: cuidando desde a modelagem inteligente de dados (relacionais e NoSQL) até a infraestrutura containerizada e automação de deploys em nuvem.
 
-Minha filosofia de engenharia é guiada por código limpo e duradouro. Aplico rigorosamente padrões de **Clean Architecture, Domain-Driven Design (DDD)** e princípios **SOLID** para garantir softwares altamente testáveis e fáceis de evoluir. Tenho experiência prática na implementação de pipelines de **CI/CD** e ecossistemas **Multi-Tenant**.
+O que me diferencia no mercado é o preciosismo com a fundação do software. Não sou refém de ferramentas; acredito que a linguagem é só um meio. Por isso, foco minha energia em dominar padrões arquiteturais sólidos como **Clean Architecture, Domain-Driven Design (DDD)** e princípios **SOLID**. O resultado disso? Códigos desacoplados, fáceis de testar e que evoluem sem quebrar a casa. Tenho bagagem prática desenhando regras complexas de **Multi-Tenancy** e arquiteturas robustas para microsserviços.
 
-Atualmente, lidero a concepção do **NextFlow PDV**, uma plataforma SaaS de alta performance focada em gestão comercial avançada, controle multi-loja e automações de processos.
-
----
+A maior prova da minha capacidade de entrega e visão de produto é o [**NextFlow PDV**](https://github.com/thiagoSEP121914/NextFlow-PDV). Mais do que um projeto, é uma plataforma SaaS multiplataforma completa de gestão comercial e automação empresarial que idealizei e estou construindo do absoluto zero. Um sistema desenhado com arquitetura de ponta para provar que software bom é software feito para durar e gerar valor real.
 
 ## ⚙️ Tech Stack
 
