@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d1a,100:00ff88&height=200&section=header&text=Thiago%20Costa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20SaaS%20Architect&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d1a,100:00ff88&height=200&section=header&text=Thiago%20Costa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20SaaS%20Architect&descAlignY=58&descSize=18&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+SaaS+Architect;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Clean+Architecture+%7C+DDD+%7C+SOLID;Building+NextFlow+PDV+%E2%80%94+Multi-Tenant+SaaS+Platform" alt="Typing SVG" />
 
