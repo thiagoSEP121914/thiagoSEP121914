@@ -21,9 +21,13 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## About
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480"/>
+</div>
+
+<br/>
 
 ```yaml
 name:     Thiago Costa
@@ -46,8 +50,6 @@ principles:
   - SOLID & Design Patterns
   - Event-Driven Architecture
 ```
-
-<br clear="right"/>
 
 ---
 
